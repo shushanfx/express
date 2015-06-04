@@ -1,0 +1,7 @@
+{
+	"port":  18080,
+	"name": "A English Name",
+    "cnName": "NodeJS + Express4 + Jade框架",
+    "bottom": "NodeJS + Express4 + Jade框架@2015",
+	"description" :  "描述信息请填写在这里。"
+}
